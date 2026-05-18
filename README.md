@@ -10,6 +10,16 @@
 `Web Design` · `UI Design` · `Graphic Design` · `Figma` · `Responsive Web` · `HTML` · `CSS` · `JavaScript`
 
 ---
+## 🏆 Experience
+
+- 일러스트 굿즈 제작 및 판매 경험
+- 로고 디자인 공모전 참여
+- 영상 콘티 작업 경험
+- 디자인 교육자료 제작 경험
+
+
+
+---
 
 ## 소개
 
