@@ -1,10 +1,11 @@
-# 💻 그래픽 기반 웹 디자이너
+# 💻 보기 편하고 깔끔한 디자인을 하는 웹 디자이너 송현빈입니다
 
-브랜드의 분위기와 시각적인 완성도를 중요하게 생각하며,  
-그래픽디자인 감성을 기반으로 사용자에게 보기 편한 웹 경험을 디자인합니다.
 
-단순히 화면을 꾸미는 것을 넘어  
-**디자인부터 웹 구현까지 자연스럽게 연결되는 인터페이스**를 고민합니다.
+그래픽디자인 감성을 바탕으로
+브랜드의 분위기와 시각적인 완성도를 중요하게 생각하는 웹디자이너 지원자입니다.
+
+단순히 화면을 꾸미는 것을 넘어,
+사용자가 보기 편하고 자연스럽게 흐름을 이해할 수 있는 인터페이스를 고민하며 디자인합니다.
 
 `Web Design` · `UI Design` · `Graphic Design` · `Figma` · `Responsive Web` · `HTML` · `CSS` · `JavaScript`
 
@@ -14,7 +15,7 @@
 
 | 구분 | 내용 |
 |---|---|
-| 디자인 분야 | 웹디자인, UI 디자인, 그래픽디자인 |
+| 디자인 분야 | 웹디자인, UI 디자인, 그래픽디자인, 배너디자인, 상세페이지 |
 | 강점 | 색감, 레이아웃, 분위기를 활용한 비주얼 디자인 |
 | UX 설계 | 사용자 흐름, 정보 구조, 와이어프레임, 프로토타입 |
 | 웹 이해도 | HTML, CSS, 기초 JavaScript, 반응형 웹 |
@@ -53,6 +54,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
