@@ -139,7 +139,7 @@ portfolio  </a>
 
 | Contact | Go to |
 |---|---|
-| Phone | <a href="tel:01093211630">010-9321-1630</a> |
+| Phone | <a href="tel:010-9321-1630">010-9321-1630</a> |
 | Email | <a href="mailto:veeny95@naver.com">veeny95@naver.com</a> |
 | Portfolio | <a href="https://shb627.github.io/shb-portfolio/">View Portfolio</a> |
 | GitHub | <a href="https://github.com/shb627">github.com/shb627</a> |
