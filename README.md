@@ -116,11 +116,11 @@ mindmap
 
 <p align="left">
   <a href="mailto:veeny95@naver.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+   veeny95@naver.com
   </a>
 
   <a href="tel:01093211630">
-    <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+   010-9321-1630
   </a>
 
   <a href="https://shb627.github.io/shb-portfolio/">
@@ -128,10 +128,21 @@ mindmap
   </a>
 
   <a href="https://github.com/shb627">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+portfolio  </a>
 
   <a href="https://wonderful-radon-c80.notion.site/35f7c08643ad80d59e96e464e875c76a?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
+
+
+| PHONE | E-MAIL | PORTFOLIO | GitHub |
+|---|---|---|---|
+|  <a href="tel:01093211630">
+   010-9321-1630
+  </a> | <a href="mailto:veeny95@naver.com">
+   veeny95@naver.com
+  </a> | <a href="https://shb627.github.io/shb-portfolio/">
+portfolio  </a> | <a href="https://github.com/shb627">
+GitHub  </a> |
+
