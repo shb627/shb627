@@ -135,21 +135,14 @@ portfolio  </a>
   </a>
 </p>
 
+---
 
-
-
-
-
-| contact | Go to |
+| Contact | Go to |
 |---|---|
-| 010-9321-1630 | <a href="tel:01093211630">
-  </a> |
-|veeny95@naver.com | <a href="mailto:veeny95@naver.com">
-  </a> |
-| portfolio | <a href="https://shb627.github.io/shb-portfolio/">
-  </a> |
-| GitHub | <a href="https://github.com/shb627">
-  </a> |
+| Phone | <a href="tel:01093211630">010-9321-1630</a> |
+| Email | <a href="mailto:veeny95@naver.com">veeny95@naver.com</a> |
+| Portfolio | <a href="https://shb627.github.io/shb-portfolio/">View Portfolio</a> |
+| GitHub | <a href="https://github.com/shb627">github.com/shb627</a> |
 
 
 
