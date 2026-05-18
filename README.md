@@ -14,21 +14,21 @@
 ## 🛠 Skills
 
 ### Design
-- Photoshop
-- Illustrator
-- Figma
-- After Effects
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AfterEffects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ### Publishing
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web
-- Swiper.js
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
 
 ### Tools
-- VS Code
-- Git / GitHub
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -39,7 +39,6 @@
 - Responsive Web
 - Interactive Web
 - Branding Design
-- Motion Graphic
 
 ---
 
@@ -59,8 +58,8 @@
 ## 📫 Contact
 
 - Email : veeny95@naver.com
-- Portfolio : (포트폴리오 링크)
-- Notion : (노션 링크)
+- Portfolio : 포트폴리오 링크
+- Notion : 노션 링크
 
 ---
 
