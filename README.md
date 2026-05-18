@@ -68,9 +68,9 @@
 | 웹 리디자인 프로젝트 | Web Design | 메인/서브 페이지 디자인 및 반응형 웹 구성 |
 | 퍼블리싱 작업 | Publishing | HTML, CSS, 기초 JavaScript 기반 웹 구현 |
 
-[포트폴리오](https://shb627.github.io/shb-portfolio/)
+[포트폴리오](https://shb627.github.io/shb-portfolio/ target="_blank")
 ---
-[노션](https://wonderful-radon-c80.notion.site/35f7c08643ad80d59e96e464e875c76a?source=copy_link)
+[노션](https://wonderful-radon-c80.notion.site/35f7c08643ad80d59e96e464e875c76a?source=copy_link/ target="_blank")
 ---
 
 ## 작업 프로세스
