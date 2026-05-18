@@ -109,3 +109,29 @@ mindmap
       JavaScript
       반응형 웹
 ```
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="mailto:veeny95@naver.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="tel:01093211630">
+    <img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=googlemessages&logoColor=white"/>
+  </a>
+
+  <a href="https://shb627.github.io/shb-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/shb627">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://wonderful-radon-c80.notion.site/35f7c08643ad80d59e96e464e875c76a?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
