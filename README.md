@@ -114,28 +114,6 @@ mindmap
 
 ## Contact
 
-<p align="left">
-  <a href="mailto:veeny95@naver.com">
-   veeny95@naver.com
-  </a>
-
-  <a href="tel:01093211630">
-   010-9321-1630
-  </a>
-
-  <a href="https://shb627.github.io/shb-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/shb627">
-portfolio  </a>
-
-  <a href="https://wonderful-radon-c80.notion.site/35f7c08643ad80d59e96e464e875c76a?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</p>
-
----
 
 | Contact | Go to |
 |---|---|
