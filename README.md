@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EC244,100:0A8F32&height=120&section=footer"/>
 # 💻 보기 편하고 깔끔한 디자인을 하는 웹 디자이너 송현빈입니다
 
 
