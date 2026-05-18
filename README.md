@@ -115,7 +115,7 @@ mindmap
 ## Contact
 
 
-| Contact | Go to |
+| 구분 | 링크 |
 |---|---|
 | Phone | <a href="tel:010-9321-1630">010-9321-1630</a> |
 | Email | <a href="mailto:veeny95@naver.com">veeny95@naver.com</a> |
