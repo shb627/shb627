@@ -61,11 +61,11 @@
 
 ## 포트폴리오 프로젝트
 
-| 프로젝트 | 유형 | 주요 작업 |
-|---|---|---|
-| 그래픽 작업 | Graphic Design | 배너, 브랜드 비주얼, SNS 콘텐츠 디자인 | <a href="https://shb627.github.io/shb-portfolio/" target="_blank">📁 [Portfolio]</a> | 
-| 웹 리디자인 프로젝트 | Web Design | 메인/서브 페이지 디자인 및 반응형 웹 구성 | <a href="https://shb627.github.io/redesign-project/" target="_blank">📁 [행복북구문화재단]</a> | 
-| 서비스 디자인 | Service Design | 위치 기반 감정 기록 서비스 UX/UI 디자인 | <a href="https://shb627.github.io/mood-here/home.html" target="_blank">📁 [무드 히어]</a> | 
+| 프로젝트 | 유형 | 주요 작업 | 링크 |
+|---|---|---|---|
+| 그래픽 작업 | Graphic Design | 배너, 상세페이지, SNS 콘텐츠 디자인 | <a href="https://shb627.github.io/shb-portfolio/">📁 Portfolio</a> |
+|행복북구문화재단 웹사이트 리디자인 | Web redesign | 메인/서브 페이지 디자인 및 반응형 웹 구성 | <a href="https://shb627.github.io/redesign-project/">📁 행복북구문화재단</a> |
+| Mood Here | Service Design | 위치 기반 감정 기록 서비스 UX/UI 디자인 | <a href="https://shb627.github.io/mood-here/home.html">📁 Mood Here</a> |
 
 <a href="https://shb627.github.io/shb-portfolio/" target="_blank">📁 [Portfolio]</a>
 
