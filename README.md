@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/github-header.png" alt="GitHub Profile Header" width="100%" />
-</p>
+
 # 💻 보기 편하고 깔끔한 디자인을 하는 웹 디자이너 송현빈입니다
 
 
