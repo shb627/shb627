@@ -143,15 +143,13 @@ portfolio  </a>
 | contact | Go to |
 |---|---|
 | 010-9321-1630 | <a href="tel:01093211630">
-   010-9321-1630
   </a> |
 |veeny95@naver.com | <a href="mailto:veeny95@naver.com">
-   veeny95@naver.com
   </a> |
 | portfolio | <a href="https://shb627.github.io/shb-portfolio/">
-portfolio  </a> |
+  </a> |
 | GitHub | <a href="https://github.com/shb627">
-GitHub  </a> |
+  </a> |
 
 
 
