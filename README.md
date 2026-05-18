@@ -136,21 +136,11 @@ portfolio  </a>
 </p>
 
 
-| PHONE | E-MAIL | PORTFOLIO | GitHub |
-|---|---|---|---|
-|  <a href="tel:01093211630">
-   010-9321-1630
-  </a> | <a href="mailto:veeny95@naver.com">
-   veeny95@naver.com
-  </a> | <a href="https://shb627.github.io/shb-portfolio/">
-portfolio  </a> | <a href="https://github.com/shb627">
-GitHub  </a> |
 
 
 
 
-
-| contact |  |
+| contact | Go to |
 |---|---|---|---|
 | 010-9321-1630 | <a href="tel:01093211630">
    010-9321-1630
