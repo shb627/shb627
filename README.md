@@ -1,9 +1,12 @@
-# UI/UX · 웹디자이너
+# 웹디자이너 · 그래픽 기반 UI 디자이너
 
-사용자의 흐름을 이해하고,  
-**디자인에서 웹 구현까지 연결되는 화면 경험**을 설계합니다.
+브랜드의 분위기와 시각적인 완성도를 중요하게 생각하며,  
+그래픽디자인 감성을 기반으로 사용자에게 보기 편한 웹 경험을 디자인합니다.
 
-`UI/UX 디자인` · `웹디자인` · `Figma` · `반응형 웹` · `HTML` · `CSS` · `JavaScript`
+단순히 화면을 꾸미는 것을 넘어  
+**디자인부터 웹 구현까지 자연스럽게 연결되는 인터페이스**를 고민합니다.
+
+`Web Design` · `UI Design` · `Graphic Design` · `Figma` · `Responsive Web` · `HTML` · `CSS` · `JavaScript`
 
 ---
 
@@ -11,21 +14,22 @@
 
 | 구분 | 내용 |
 |---|---|
-| 디자인 분야 | UI/UX 디자인, 웹디자인, 비주얼 디자인 |
+| 디자인 분야 | 웹디자인, UI 디자인, 그래픽디자인 |
+| 강점 | 색감, 레이아웃, 분위기를 활용한 비주얼 디자인 |
 | UX 설계 | 사용자 흐름, 정보 구조, 와이어프레임, 프로토타입 |
 | 웹 이해도 | HTML, CSS, JavaScript, 반응형 웹 |
-| 관심 분야 | 디자인 시스템, 웹접근성, 퍼블리싱, 사용자 경험 개선 |
+| 관심 분야 | 웹디자인, 인터랙션, 디자인 시스템, 퍼블리싱 |
 
 ---
 
-## 주요 관심 영역
+## 디자인 방향성
 
 | 영역 | 설명 |
 |---|---|
-| UI/UX 디자인 | 사용자가 이해하기 쉬운 화면 흐름과 구조를 설계합니다. |
-| 웹디자인 | 브랜드와 서비스 목적에 맞는 웹 인터페이스를 디자인합니다. |
-| 퍼블리싱 이해 | 디자인이 실제 웹 화면에서 구현되는 방식을 고려합니다. |
-| 디자인 시스템 | 색상, 타이포그래피, 버튼, 컴포넌트를 일관성 있게 정리합니다. |
+| Graphic Design | 브랜드 분위기와 감성을 시각적으로 표현하는 작업을 좋아합니다. |
+| Web Design | 보기 편하면서도 분위기가 전달되는 웹 화면을 디자인합니다. |
+| UI Design | 사용자가 자연스럽게 흐름을 이해할 수 있는 인터페이스를 고민합니다. |
+| Publishing | 디자인이 실제 웹 화면에서 구현되는 과정까지 함께 고려합니다. |
 
 ---
 
@@ -36,6 +40,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![AfterEffects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 
 ### Web
 
@@ -55,9 +60,10 @@
 
 | 프로젝트 | 유형 | 주요 작업 |
 |---|---|---|
-| UI/UX 디자인 프로젝트 | UX/UI | 사용자 흐름, 정보 구조, 와이어프레임, 프로토타입 |
-| 웹디자인 프로젝트 | Web Design | 메인 페이지, 서브 페이지, 컬러 시스템, 타이포그래피 |
-| 퍼블리싱 프로젝트 | Frontend | HTML, CSS, JavaScript, 반응형 웹 구현 |
+| Mood Here | UX/UI Design | 위치 기반 감정 기록 서비스 UX/UI 디자인 |
+| 웹 리디자인 프로젝트 | Web Design | 메인/서브 페이지 디자인 및 반응형 웹 구성 |
+| 그래픽 작업 | Graphic Design | 배너, 브랜드 비주얼, SNS 콘텐츠 디자인 |
+| 퍼블리싱 작업 | Frontend | HTML, CSS, JavaScript 기반 웹 구현 |
 
 ---
 
@@ -65,55 +71,30 @@
 
 ```mermaid
 flowchart LR
-    A[문제 이해] --> B[사용자 분석]
+    A[리서치] --> B[사용자 흐름 정리]
     B --> C[정보 구조 설계]
     C --> D[와이어프레임]
     D --> E[UI 디자인]
-    E --> F[프로토타입]
-    F --> G[피드백 반영]
-    G --> H[웹 구현 검토]
-```
-
----
+    E --> F[비주얼 디테일]
+    F --> G[프로토타입]
+    G --> H[퍼블리싱 구현]
 
 ## 디자인 사고 구조
 
-```mermaid
-mindmap
+    mindmap
   root((Design))
+    Graphic
+      색감
+      레이아웃
+      분위기
+      브랜드 무드
     UX
       사용자 흐름
       정보 구조
       와이어프레임
       프로토타입
-    UI
-      레이아웃
-      컬러
-      타이포그래피
-      컴포넌트
     Web
       HTML
       CSS
       JavaScript
       반응형 웹
-```
-
----
-
-## 현재 학습 중인 내용
-
-![Design System](https://img.shields.io/badge/디자인%20시스템-학습중-7B61FF?style=flat-square)
-![Responsive Web](https://img.shields.io/badge/반응형%20웹-학습중-1572B6?style=flat-square)
-![Accessibility](https://img.shields.io/badge/웹접근성-학습중-2E7D32?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-학습중-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-기초%20학습-61DAFB?style=flat-square&logo=react&logoColor=black)
-
----
-
-## Contact
-
-| 구분 | 링크 |
-|---|---|
-| Email | your-email@example.com |
-| Portfolio | 준비 중 |
-| GitHub | https://github.com/your-github-id |
