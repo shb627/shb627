@@ -81,10 +81,14 @@ flowchart LR
     E --> F[비주얼 디테일]
     F --> G[프로토타입]
     G --> H[퍼블리싱 구현]
+```
+
+---
 
 ## 디자인 사고 구조
 
-    mindmap
+```mermaid
+mindmap
   root((Design))
     Graphic
       색감
@@ -101,3 +105,4 @@ flowchart LR
       CSS
       JavaScript
       반응형 웹
+```
